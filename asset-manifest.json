@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/strong-password-generator/static/css/main.3a8db2fe.css",
-    "main.js": "/strong-password-generator/static/js/main.2389a450.js",
+    "main.js": "/strong-password-generator/static/js/main.f67ab456.js",
     "index.html": "/strong-password-generator/index.html",
     "main.3a8db2fe.css.map": "/strong-password-generator/static/css/main.3a8db2fe.css.map",
-    "main.2389a450.js.map": "/strong-password-generator/static/js/main.2389a450.js.map"
+    "main.f67ab456.js.map": "/strong-password-generator/static/js/main.f67ab456.js.map"
   },
   "entrypoints": [
     "static/css/main.3a8db2fe.css",
-    "static/js/main.2389a450.js"
+    "static/js/main.f67ab456.js"
   ]
 }
