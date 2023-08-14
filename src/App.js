@@ -3,7 +3,8 @@ import StrongPasswordGenerator from "./StrongPasswordGenerator";
 
 export default function App() {
   return(
-    <StrongPasswordGenerator />
+    // <StrongPasswordGenerator />
     // <FormValidation />
+    <LoginAuth />
   );
 }
