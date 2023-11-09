@@ -10,7 +10,7 @@ You can try out the Strong Password Generator by visiting the live demo at: [htt
 
 To use the Strong Password Generator, follow these steps:
 
-1. Visit the live demo page: [https://fatmaashraf1.github.io/strong-password-generator](https://fatmaashraf1.github.io/strong-password-generator)
+1. Visit the live demo page: [https://fatmaashraf1.github.io/strong-password-generator](https://fatmaashraf1.github.io/Strong-password-generator)
 
 2. Enter the desired password length in the input field. The length should be a positive integer between 8 and 40.
 
